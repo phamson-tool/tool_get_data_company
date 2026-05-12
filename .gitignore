@@ -1,3 +1,9 @@
+.git
+.vscode
 main_tool.py
 tesseract-ocr.exe
 test.py
+output
+update.py
+update.exe
+main_tool.exe
